@@ -2509,26 +2509,19 @@
   {
     "name": "Tachiyomi: HNI-Scantrad",
     "pkg": "eu.kanade.tachiyomi.extension.all.hniscantrad",
-    "apk": "tachiyomi-all.hniscantrad-v1.4.4.apk",
+    "apk": "tachiyomi-all.hniscantrad-v1.4.7.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "HNI-Scantrad",
-        "lang": "fr",
-        "id": "7130055782128032732",
-        "baseUrl": "https://hni-scantrad.com",
-        "versionId": 1
-      },
-      {
-        "name": "HNI-Scantrad",
-        "lang": "en",
-        "id": "7820880467432898007",
-        "baseUrl": "https://hni-scantrad.com",
+        "lang": "all",
+        "id": "4972198006998831006",
+        "baseUrl": "https://hni-scantrad.net",
         "versionId": 1
       }
     ]
@@ -7635,6 +7628,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Toomics.Top",
+    "pkg": "eu.kanade.tachiyomi.extension.de.toomicstop",
+    "apk": "tachiyomi-de.toomicstop-v1.4.1.apk",
+    "lang": "de",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Toomics.Top",
+        "lang": "de",
+        "id": "7630549934562919592",
+        "baseUrl": "https://toomics.top",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: WieManga",
     "pkg": "eu.kanade.tachiyomi.extension.de.wiemanga",
     "apk": "tachiyomi-de.wiemanga-v1.4.5.apk",
@@ -8650,6 +8663,26 @@
         "lang": "en",
         "id": "8273498201739375095",
         "baseUrl": "https://darkscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: DAYcomics.me",
+    "pkg": "eu.kanade.tachiyomi.extension.en.daycomicsme",
+    "apk": "tachiyomi-en.daycomicsme-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DAYcomics.me",
+        "lang": "en",
+        "id": "8459432501224665152",
+        "baseUrl": "https://daycomics.me",
         "versionId": 1
       }
     ]
@@ -9983,6 +10016,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: HotComics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hotcomics",
+    "apk": "tachiyomi-en.hotcomics-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HotComics",
+        "lang": "en",
+        "id": "6335003343669033128",
+        "baseUrl": "https://hotcomics.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hreads",
     "pkg": "eu.kanade.tachiyomi.extension.en.hreads",
     "apk": "tachiyomi-en.hreads-v1.4.36.apk",
@@ -10478,6 +10531,26 @@
         "lang": "en",
         "id": "3170469941376953132",
         "baseUrl": "https://ladymanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Laid Back Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.laidbackscans",
+    "apk": "tachiyomi-en.laidbackscans-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Laid Back Scans",
+        "lang": "en",
+        "id": "2614756097800392864",
+        "baseUrl": "https://laidbackscans.org",
         "versionId": 1
       }
     ]
@@ -15212,10 +15285,10 @@
   {
     "name": "Tachiyomi: Read Attack on Titan Shingeki no Kyojin Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga",
-    "apk": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.8.apk",
+    "apk": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15224,7 +15297,7 @@
         "name": "Read Attack on Titan Shingeki no Kyojin Manga",
         "lang": "en",
         "id": "8930801332831394412",
-        "baseUrl": "https://ww8.readsnk.com",
+        "baseUrl": "https://ww9.readsnk.com",
         "versionId": 1
       }
     ]
@@ -16725,6 +16798,46 @@
         "lang": "en",
         "id": "4014304631701903182",
         "baseUrl": "https://todaymic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ToomicsFree.com",
+    "pkg": "eu.kanade.tachiyomi.extension.en.toomicsfree",
+    "apk": "tachiyomi-en.toomicsfree-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ToomicsFree.com",
+        "lang": "en",
+        "id": "5400581014087936275",
+        "baseUrl": "https://toomicsfree.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ToomicsFree.info",
+    "pkg": "eu.kanade.tachiyomi.extension.en.toomicsfreeinfo",
+    "apk": "tachiyomi-en.toomicsfreeinfo-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ToomicsFree.info",
+        "lang": "en",
+        "id": "5224189528997072591",
+        "baseUrl": "https://toomicsfree.info",
         "versionId": 1
       }
     ]
@@ -20644,6 +20757,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Starbound Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.starboundscans",
+    "apk": "tachiyomi-fr.starboundscans-v1.4.2.apk",
+    "lang": "fr",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Starbound Scans",
+        "lang": "fr",
+        "id": "483118110804293215",
+        "baseUrl": "https://starboundscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
     "apk": "tachiyomi-fr.sushiscan-v1.4.41.apk",
@@ -24274,10 +24407,10 @@
   {
     "name": "Tachiyomi: Fleur Blanche",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
-    "apk": "tachiyomi-pt.fleurblanche-v1.4.37.apk",
+    "apk": "tachiyomi-pt.fleurblanche-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24286,7 +24419,7 @@
         "name": "Fleur Blanche",
         "lang": "pt-BR",
         "id": "2748000026130339026",
-        "baseUrl": "https://fbsquads.com",
+        "baseUrl": "https://fbsscan.com",
         "versionId": 1
       }
     ]
@@ -24554,20 +24687,20 @@
   {
     "name": "Tachiyomi: Hunters Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
-    "apk": "tachiyomi-pt.huntersscans-v1.4.36.apk",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Hunters Scans",
+        "name": "Hunters Scan",
         "lang": "pt-BR",
-        "id": "2608326477521786674",
+        "id": "7310576253330700902",
         "baseUrl": "https://huntersscan.xyz",
-        "versionId": 2
+        "versionId": 1
       }
     ]
   },
@@ -25514,10 +25647,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.42.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.43.apk",
     "lang": "pt-BR",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25525,7 +25658,7 @@
       {
         "name": "Lura Toon",
         "lang": "pt-BR",
-        "id": "8295593204533043008",
+        "id": "5618833222165156043",
         "baseUrl": "https://luratoon.com",
         "versionId": 1
       }
