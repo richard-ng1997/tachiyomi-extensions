@@ -6670,10 +6670,10 @@
   {
     "name": "Tachiyomi: Dilar",
     "pkg": "eu.kanade.tachiyomi.extension.ar.dilar",
-    "apk": "tachiyomi-ar.dilar-v1.4.4.apk",
+    "apk": "tachiyomi-ar.dilar-v1.4.5.apk",
     "lang": "ar",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7210,10 +7210,10 @@
   {
     "name": "Tachiyomi: Manga Tales",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangatales",
-    "apk": "tachiyomi-ar.mangatales-v1.4.2.apk",
+    "apk": "tachiyomi-ar.mangatales-v1.4.3.apk",
     "lang": "ar",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14545,10 +14545,10 @@
   {
     "name": "Tachiyomi: Night Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.nightcomic",
-    "apk": "tachiyomi-en.nightcomic-v1.4.36.apk",
+    "apk": "tachiyomi-en.nightcomic-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14557,7 +14557,7 @@
         "name": "Night Comic",
         "lang": "en",
         "id": "4672546343857366352",
-        "baseUrl": "https://www.nightcomic.com",
+        "baseUrl": "https://nightcomic.com",
         "versionId": 1
       }
     ]
@@ -28507,10 +28507,10 @@
   {
     "name": "Tachiyomi: Truyen Hentai 18+",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenhentai18",
-    "apk": "tachiyomi-vi.truyenhentai18-v1.4.1.apk",
+    "apk": "tachiyomi-vi.truyenhentai18-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28519,7 +28519,7 @@
         "name": "Truyện Hentai 18+",
         "lang": "vi",
         "id": "6484094278517548634",
-        "baseUrl": "https://truyenhentai18.net",
+        "baseUrl": "https://truyenhentai18.org",
         "versionId": 1
       }
     ]
