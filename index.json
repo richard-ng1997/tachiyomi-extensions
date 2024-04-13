@@ -8208,6 +8208,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Blazescans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.blazescans",
+    "apk": "tachiyomi-en.blazescans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Blazescans",
+        "lang": "en",
+        "id": "3912200442923601567",
+        "baseUrl": "https://blazescans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BoxManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.boxmanhwa",
     "apk": "tachiyomi-en.boxmanhwa-v1.4.13.apk",
@@ -13043,6 +13063,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaTop",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangatop",
+    "apk": "tachiyomi-en.mangatop-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaTop",
+        "lang": "en",
+        "id": "85127596998931837",
+        "baseUrl": "https://mangatop.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaToRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatoread",
     "apk": "tachiyomi-en.mangatoread-v1.4.35.apk",
@@ -16203,21 +16243,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Scylla Scans",
+    "name": "Tachiyomi: Scylla Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.scyllascans",
-    "apk": "tachiyomi-en.scyllascans-v1.4.10.apk",
+    "apk": "tachiyomi-en.scyllascans-v1.4.12.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Scylla Scans",
+        "name": "Scylla Comics",
         "lang": "en",
         "id": "9064193520444097799",
-        "baseUrl": "https://scyllascans.org",
+        "baseUrl": "https://scyllacomics.xyz",
         "versionId": 2
       }
     ]
@@ -19112,10 +19152,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.45.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.47.apk",
     "lang": "es",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19752,10 +19792,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.33.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19763,9 +19803,9 @@
       {
         "name": "Temple Scan",
         "lang": "es",
-        "id": "4711394377881167920",
+        "id": "2192798608624726013",
         "baseUrl": "https://templescanesp.net",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -23992,14 +24032,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki332.net",
+        "baseUrl": "https://manatoki333.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki332.com",
+        "baseUrl": "https://newtoki333.com",
         "versionId": 1
       }
     ]
@@ -25185,6 +25225,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Maid Secret",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.maidsecret",
+    "apk": "tachiyomi-pt.maidsecret-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Maid Secret",
+        "lang": "pt-BR",
+        "id": "5894093237697427052",
+        "baseUrl": "https://maidsecret.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangá Nanquim",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangananquim",
     "apk": "tachiyomi-pt.mangananquim-v1.4.35.apk",
@@ -25280,6 +25340,26 @@
         "lang": "pt-BR",
         "id": "7865569692125193686",
         "baseUrl": "https://rogmangas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Terra",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangaterra",
+    "apk": "tachiyomi-pt.mangaterra-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Terra",
+        "lang": "pt-BR",
+        "id": "1518947307457699169",
+        "baseUrl": "https://manga-terra.com",
         "versionId": 1
       }
     ]
@@ -27800,6 +27880,26 @@
         "lang": "tr",
         "id": "9068262319581900273",
         "baseUrl": "https://mangawt.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Merlin Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.merlinscans",
+    "apk": "tachiyomi-tr.merlinscans-v1.4.35.apk",
+    "lang": "tr",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Merlin Scans",
+        "lang": "tr",
+        "id": "8373525628494692390",
+        "baseUrl": "https://merlinscans.com",
         "versionId": 1
       }
     ]
