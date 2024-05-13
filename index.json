@@ -83,10 +83,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.35.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.36.apk",
     "lang": "all",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6041,10 +6041,10 @@
   {
     "name": "Tachiyomi: Thunder Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.thunderscans",
-    "apk": "tachiyomi-all.thunderscans-v1.4.31.apk",
+    "apk": "tachiyomi-all.thunderscans-v1.4.32.apk",
     "lang": "all",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6053,14 +6053,14 @@
         "name": "Thunder Scans",
         "lang": "ar",
         "id": "3209001028102012989",
-        "baseUrl": "https://thunderscans.com",
+        "baseUrl": "https://ar-thunderepic.com",
         "versionId": 1
       },
       {
         "name": "Thunder Scans",
         "lang": "en",
         "id": "2848420679472350044",
-        "baseUrl": "https://en-thunderscans.com",
+        "baseUrl": "https://en-thunderepic.com",
         "versionId": 1
       }
     ]
@@ -6952,10 +6952,10 @@
   {
     "name": "Tachiyomi: Hijala",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hijala",
-    "apk": "tachiyomi-ar.hijala-v1.4.30.apk",
+    "apk": "tachiyomi-ar.hijala-v1.4.31.apk",
     "lang": "ar",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6963,9 +6963,9 @@
       {
         "name": "Hijala",
         "lang": "ar",
-        "id": "917436262447415426",
+        "id": "7593186392118593943",
         "baseUrl": "https://www.hijala.com",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -8392,10 +8392,10 @@
   {
     "name": "Tachiyomi: Blackout Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.blackoutscans",
-    "apk": "tachiyomi-en.blackoutscans-v1.4.2.apk",
+    "apk": "tachiyomi-en.blackoutscans-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9340,10 +9340,10 @@
   {
     "name": "Tachiyomi: EZmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
-    "apk": "tachiyomi-en.ezmanga-v1.4.36.apk",
+    "apk": "tachiyomi-en.ezmanga-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10040,10 +10040,10 @@
   {
     "name": "Tachiyomi: HentaiRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentairead",
-    "apk": "tachiyomi-en.hentairead-v1.4.40.apk",
+    "apk": "tachiyomi-en.hentairead-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10560,10 +10560,10 @@
   {
     "name": "Tachiyomi: Kewn Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kewnscans",
-    "apk": "tachiyomi-en.kewnscans-v1.4.3.apk",
+    "apk": "tachiyomi-en.kewnscans-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10800,10 +10800,10 @@
   {
     "name": "Tachiyomi: Laid Back Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.laidbackscans",
-    "apk": "tachiyomi-en.laidbackscans-v1.4.2.apk",
+    "apk": "tachiyomi-en.laidbackscans-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16347,10 +16347,10 @@
   {
     "name": "Tachiyomi: Rudra Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rudrascans",
-    "apk": "tachiyomi-en.rudrascans-v1.4.3.apk",
+    "apk": "tachiyomi-en.rudrascans-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17654,10 +17654,10 @@
   {
     "name": "Tachiyomi: Wicked Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.wickedscans",
-    "apk": "tachiyomi-en.wickedscans-v1.4.2.apk",
+    "apk": "tachiyomi-en.wickedscans-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19974,10 +19974,10 @@
   {
     "name": "Tachiyomi: Tecno Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tecnoscan",
-    "apk": "tachiyomi-es.tecnoscan-v1.4.37.apk",
+    "apk": "tachiyomi-es.tecnoscan-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19985,9 +19985,9 @@
       {
         "name": "Tecno Scan",
         "lang": "es",
-        "id": "569894214180281035",
+        "id": "591563750306327645",
         "baseUrl": "https://visortecno.com",
-        "versionId": 3
+        "versionId": 4
       }
     ]
   },
@@ -20281,10 +20281,10 @@
   {
     "name": "Tachiyomi: Anteiku Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.anteikuscan",
-    "apk": "tachiyomi-fr.anteikuscan-v1.4.2.apk",
+    "apk": "tachiyomi-fr.anteikuscan-v1.4.3.apk",
     "lang": "fr",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20341,10 +20341,10 @@
   {
     "name": "Tachiyomi: Astrames",
     "pkg": "eu.kanade.tachiyomi.extension.fr.astrames",
-    "apk": "tachiyomi-fr.astrames-v1.4.2.apk",
+    "apk": "tachiyomi-fr.astrames-v1.4.3.apk",
     "lang": "fr",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20401,10 +20401,10 @@
   {
     "name": "Tachiyomi: ED Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.fr.edscanlation",
-    "apk": "tachiyomi-fr.edscanlation-v1.4.2.apk",
+    "apk": "tachiyomi-fr.edscanlation-v1.4.3.apk",
     "lang": "fr",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21181,10 +21181,10 @@
   {
     "name": "Tachiyomi: Starbound Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.starboundscans",
-    "apk": "tachiyomi-fr.starboundscans-v1.4.2.apk",
+    "apk": "tachiyomi-fr.starboundscans-v1.4.3.apk",
     "lang": "fr",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24867,6 +24867,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Brasil Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.brasilhentai",
+    "apk": "tachiyomi-pt.brasilhentai-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Brasil Hentai",
+        "lang": "pt-BR",
+        "id": "8020430975962445741",
+        "baseUrl": "https://brasilhentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Bruttal",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bruttal",
     "apk": "tachiyomi-pt.bruttal-v1.4.6.apk",
@@ -25162,6 +25182,26 @@
         "lang": "pt-BR",
         "id": "5553519415877811746",
         "baseUrl": "https://galaxscanlator.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Galinha Samurai Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.galinhasamuraiscan",
+    "apk": "tachiyomi-pt.galinhasamuraiscan-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Galinha Samurai Scan",
+        "lang": "pt-BR",
+        "id": "6629098298979987882",
+        "baseUrl": "https://galinhasamurai.com",
         "versionId": 1
       }
     ]
@@ -28529,10 +28569,10 @@
   {
     "name": "Tachiyomi: Hattori Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.hattorimanga",
-    "apk": "tachiyomi-tr.hattorimanga-v1.4.36.apk",
+    "apk": "tachiyomi-tr.hattorimanga-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28540,9 +28580,9 @@
       {
         "name": "Hattori Manga",
         "lang": "tr",
-        "id": "1800748090440992820",
+        "id": "1862736259549588334",
         "baseUrl": "https://hattorimanga.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -30829,10 +30869,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.10.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.11.apk",
     "lang": "zh",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
