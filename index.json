@@ -265,10 +265,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.37.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.38.apk",
     "lang": "all",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10615,26 +10615,6 @@
         "lang": "en",
         "id": "4273874799952447458",
         "baseUrl": "https://manhuascans.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Good Girls Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.en.goodgirlsscan",
-    "apk": "tachiyomi-en.goodgirlsscan-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Good Girls Scan",
-        "lang": "en",
-        "id": "7767373857094891353",
-        "baseUrl": "https://goodgirls.moe",
         "versionId": 1
       }
     ]
@@ -32878,10 +32858,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.11.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.12.apk",
     "lang": "zh",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
